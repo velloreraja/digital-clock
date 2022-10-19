@@ -1,1 +1,1 @@
-# digital-click
+# digital-clock

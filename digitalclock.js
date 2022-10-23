@@ -7,7 +7,7 @@ function digitalClock() {
   let ss = date.getSeconds();
   let morning = "PM";
 
-  if (hh == 0) {
+  if (hh == 00) {
     hh = 12;
   } else if (hh < 12) {
     hh = hh % 12;
